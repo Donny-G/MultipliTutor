@@ -1,0 +1,20 @@
+PODS:
+  - DeviceKit (2.3.0)
+  - RainbowBar (0.3.0):
+    - DeviceKit (~> 2.0)
+
+DEPENDENCIES:
+  - RainbowBar
+
+SPEC REPOS:
+  trunk:
+    - DeviceKit
+    - RainbowBar
+
+SPEC CHECKSUMS:
+  DeviceKit: da103891aa928d89f64ea8dd8aca738c5f3d8ac0
+  RainbowBar: 5d2998d832b44a71bb3eed2bbab5f9e5935dd15b
+
+PODFILE CHECKSUM: 584f067e57838286319f3ea289874d0adcee34d2
+
+COCOAPODS: 1.9.1

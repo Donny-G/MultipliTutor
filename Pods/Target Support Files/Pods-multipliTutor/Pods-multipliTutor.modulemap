@@ -1,0 +1,6 @@
+framework module Pods_multipliTutor {
+  umbrella header "Pods-multipliTutor-umbrella.h"
+
+  export *
+  module * { export * }
+}

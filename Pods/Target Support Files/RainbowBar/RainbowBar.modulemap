@@ -1,0 +1,6 @@
+framework module RainbowBar {
+  umbrella header "RainbowBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
